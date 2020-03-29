@@ -22,9 +22,9 @@ tests: FORCE
 	$(UTILS_DIR)/html_include.awk <$< >$@
 	git add $@
 
-local: $(HTMLFILES)
+local: $(HTMLFILES) $(INCS)
 
-prod: $(INCS) $(HTMLFILES) tests
+prod: local tests
 	-git commit -a 
 	git pull origin master
 	git push origin master
