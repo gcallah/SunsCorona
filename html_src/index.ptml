@@ -1,0 +1,17 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            The Sun's Bright Corona
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            The Sun's Bright Corona
+        </h1>
+
+    </body>
+</html>

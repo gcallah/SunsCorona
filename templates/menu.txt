@@ -1,0 +1,20 @@
+<ul class="menu">
+	<li>
+	<a href="index.html">HOME</a>
+	</li>
+	<li>
+	<a href="chapters.html">CHAPTERS</a>
+	</li>
+	<li>
+	<a href="silentsolar.html">SILENT SOLAR</a>
+	</li>
+	<li>
+	<a href="curious.html">CURIOUS JOEL</a>
+	</li>
+	<li>
+	<a href="anarchists.html">ANARCHISTS</a>
+	</li>
+	<li>
+	<a href="about.html">ABOUT</a>
+	</li>
+</ul>

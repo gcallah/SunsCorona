@@ -1,0 +1,27 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Chapters
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            Chapters
+        </h1>
+
+        <ol>
+            <li>
+                Chapter One:
+            </li>
+
+            <li>
+                Chapter Two:
+            </li>
+        </ol>
+
+    </body>
+</html>

@@ -1,0 +1,17 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Silent Solar
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            Silent Solar
+        </h1>
+
+    </body>
+</html>

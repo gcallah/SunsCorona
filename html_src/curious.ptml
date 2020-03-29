@@ -1,0 +1,30 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Curious Joel
+        </title>
+    </head>
+
+    <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+        <h1>
+            Curious Joel
+        </h1>
+
+        <p>
+        Orthodox group: Rabbi Gifteichebaum
+        <br/>
+        Poison Oak, NY
+        <br/>
+        Kabbalah
+        <br/>
+        Miriam
+        <br/>
+        Adam and Eve
+        </p>
+
+
+    </body>
+</html>
