@@ -2,7 +2,7 @@
 # Need to export TEMPLATE_DIR as ENV var
 export TEMPLATE_DIR = templates
 # Export MARKDOWN_DIR
-export MARKDOWN_DIR = markdown_files
+export MARKDOWN_DIR = markdown
 PTML_DIR = html_src
 UTILS_DIR = utils
 DOCKER_DIR = docker
@@ -11,6 +11,8 @@ DOCKER_DIR = docker
 INCS = $(TEMPLATE_DIR)/head.txt $(TEMPLATE_DIR)/logo.txt $(TEMPLATE_DIR)/menu.txt
 
 HTMLFILES = $(shell ls $(PTML_DIR)/*.ptml | sed -e 's/.ptml/.html/' | sed -e 's/html_src\///')
+
+MARKDOWN_FILES = $(shell ls $(MARKDOWN_DIR))
 
 FORCE:
 
@@ -23,6 +25,13 @@ tests: FORCE
 	git add $@
 
 local: $(HTMLFILES) $(INCS)
+
+%.md: $(MARKDOWN_DIR)/%.md
+	# Requires pandoc, uses commonmark flavor of markdown
+	pandoc -f commonmark -t html5 <$< >$(PTML_DIR)/$@.ptml
+	mv $(PTML_DIR)/$@.ptml $(PTML_DIR)/$$(basename -s .md $<).ptml
+
+markdown: $(MARKDOWN_FILES)
 
 prod: local tests
 	-git commit -a 

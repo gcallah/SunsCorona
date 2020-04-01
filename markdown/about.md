@@ -10,7 +10,9 @@
 <!--include logo.txt -->
 <!--include menu.txt -->
 
-<h1>About this project</h1>
-<p>This is a novel in progress.</p>
+# About this project
+
+This is a novel in progress.
+
 </body>
 </html>
