@@ -12,6 +12,9 @@ INCS = $(TEMPLATE_DIR)/head.txt $(TEMPLATE_DIR)/logo.txt $(TEMPLATE_DIR)/menu.tx
 
 HTMLFILES = $(shell ls $(PTML_DIR)/*.ptml | sed -e 's/.ptml/.html/' | sed -e 's/html_src\///')
 
+# PTMLFILES = $(shell ls $(MARKDOWN_DIR)/*.md | sed -e 's/.md/.ptml/' | sed -e 's/$(MARKDOWN_DIR)/$PTML_DIR/')
+
+
 MARKDOWN_FILES = $(shell ls $(MARKDOWN_DIR))
 
 FORCE:
