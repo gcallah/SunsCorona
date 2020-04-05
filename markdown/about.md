@@ -13,9 +13,5 @@
 # About this project
 
 This is a novel in progress.
-
-Sipme
-
-Test
 </body>
 </html>
