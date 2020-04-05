@@ -1,0 +1,16 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            About This Project
+        </title>
+    </head>
+
+ <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+
+<h1>About this project</h1>
+<p>This is a novel in progress.</p>
+</body>
+</html>
