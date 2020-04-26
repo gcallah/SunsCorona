@@ -6,7 +6,7 @@ export MARKDOWN_DIR = markdown
 PTML_DIR = html_src
 UTILS_DIR = utils
 DOCKER_DIR = docker
-PANDOC = /home/gcallah/pandoc-2.9.2.1/bin/pandoc
+PANDOC = pandoc
 # REPO = this repo!
 
 INCS = $(TEMPLATE_DIR)/head.txt $(TEMPLATE_DIR)/logo.txt $(TEMPLATE_DIR)/menu.txt
@@ -25,7 +25,7 @@ tests: FORCE
 	$(UTILS_DIR)/html_include.awk <$< >$@
 	git add $@
 
-local: $(HTMLFILES) $(INCS)
+local: $(HTMLFILES) $(PTMLFILES) $(INCS)
 
 $(PTML_DIR)/%.ptml: $(MARKDOWN_DIR)/%.md
 	# Requires pandoc, uses commonmark flavor of markdown
