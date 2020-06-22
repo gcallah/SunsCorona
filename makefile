@@ -26,17 +26,20 @@ tests: FORCE
 
 local: $(HTMLFILES) $(INCS)
 
-%.md: $(MARKDOWN_DIR)/%.md
+$(PTML_DIR)/%.ptml: $(MARKDOWN_DIR)/%.md
 	# Requires pandoc, uses commonmark flavor of markdown
-	pandoc -f commonmark -t html5 <$< >$(PTML_DIR)/$@.ptml
-	mv $(PTML_DIR)/$@.ptml $(PTML_DIR)/$$(basename -s .md $<).ptml
+	pandoc -f commonmark -t html5 <$< >$@
+	git add $@
 
-markdown: $(MARKDOWN_FILES)
+ptml: $(PTMLFILES)
 
 prod: local tests
 	-git commit -a 
 	git pull origin master
 	git push origin master
+
+utils: FORCE
+	cd utils; git submodule update --init
 
 submods:
 	git submodule foreach 'git pull origin master'

@@ -1,17 +1,20 @@
 <html>
-    <head>
+<head>
 <!--include head.txt -->
-        <title>
+<title>
             Silent Solar
-        </title>
-    </head>
+</title>
+</head>
 
-    <body>
+<body>
 <!--include logo.txt -->
 <!--include menu.txt -->
-        <h1>
-            Silent Solar
-        </h1>
 
-    </body>
+<h1>Silent Solar</h1>
+<h3>Characters</h3>
+<h3>Scenes</h3>
+<p>Loretta Diangelo was soaking some red kidney beans in the kitchen. Over her should, she remarked to Tom, "Christianity, you know, is white supremacist."</p>
+<p>"It is?"</p>
+<p>"Of course: it has been instrumental in a system of white oppression and worldwide terrorism for 500 years."</p>
+</body>
 </html>
