@@ -13,6 +13,5 @@
 # About this project
 
 This is a novel in progress.
-
 </body>
 </html>

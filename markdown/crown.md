@@ -1,0 +1,37 @@
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Crown Heights
+        </title>
+    </head>
+
+ <body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+
+# Crown Heights
+
+Jonah Fischbaum strode down Eastern Parkway feeling that the world was his
+oyster. He had just closed a deal for the purchase of a ten million dollar
+commercial property on Troy Avenue, for which he should earn a commission of
+about 300,000 dollars. Finally, he ought to be able to get his wife, Levana, to
+lay off him about not joining her father's diamond business, and instead
+starting his own real estate brokerage.
+
+Levana loved him, most likely, but Jonah always worried that, just maybe, she
+loved wealth even more. But no, that was not quite right: it was not wealth
+itself that she loved, but the respect from the community which wealth brought.
+
+But just as he was about to step into Albany Avenue, on his way to admire the
+property he had just sold, an ambulance, its sirens blaring, stopped him in his
+tracks.
+
+At that moment, this seemed like an insignificant interruption in Jonah's
+triumphant march to the site of victory. But, in fact, the passage of the
+ambulance might be taken as a portent, for its presence signified the
+penetration of a new reality into Jonah's world, one which would forever change
+the trajectory of his life.
+
+</body>
+</html>
