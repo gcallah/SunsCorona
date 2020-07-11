@@ -23,7 +23,7 @@
 ### Scenes
 
 Loretta Diangelo was soaking some red kidney beans in the kitchen. Over her
-should, she remarked to Tom, "Christianity, you know, is white supremacist."
+shoulder, she remarked to Tom, "Christianity, you know, is white supremacist."
 
 "It is?"
 
