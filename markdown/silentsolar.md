@@ -15,6 +15,10 @@
 
 ### Characters
 
+- Tom Kernan
+- Loretta Diangelo
+- Abby Geist
+
 
 ### Scenes
 

@@ -6,6 +6,9 @@
 	<a href="chapters.html">CHAPTERS</a>
 	</li>
 	<li>
+	<a href="townies.html">TOWNIES</a>
+	</li>
+	<li>
 	<a href="silentsolar.html">SILENT SOLAR</a>
 	</li>
 	<li>

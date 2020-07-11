@@ -1,0 +1,24 @@
+<html>
+<head>
+<!--include head.txt -->
+<title>
+            Townies
+</title>
+</head>
+
+<body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+
+<h1>Townies</h1>
+<h3>Characters</h3>
+<p><strong>Julio</strong>:</p>
+<ul>
+<li>Brazilian man.</li>
+<li>Candomble.</li>
+<li>Trump supporter</li>
+<li>Carpenter</li>
+</ul>
+<h3>Scenes</h3>
+</body>
+</html>
