@@ -28,7 +28,7 @@ local: $(HTMLFILES) $(INCS)
 
 $(PTML_DIR)/%.ptml: $(MARKDOWN_DIR)/%.md
 	# Requires pandoc
-	pandoc -f markdown -t html5 <$< >$@
+	pandoc -f commonmark -t html5 <$< >$@
 	git add $@
 
 ptml: $(PTMLFILES)
