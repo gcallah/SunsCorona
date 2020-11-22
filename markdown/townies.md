@@ -12,12 +12,11 @@
 
 # Townies
 
+## Characters
 
-### Characters
+**Julio Candomble**:
 
-**Julio**:
 - Brazilian man.
-- Candomble.
 - Trump supporter
 - Carpenter
 
@@ -26,7 +25,7 @@
 
 **Lesbian couple**
 
-### Scenes
+## Scenes
 
 Julio confronts orthodox in town: "Why don't any of *you* ever get sick?"
 

@@ -1,16 +1,30 @@
 <html>
-    <head>
+<pre><code>&lt;head&gt;</code></pre>
 <!--include head.txt -->
-        <title>
-            About This Project
-        </title>
-    </head>
-
+<pre><code>    &lt;title&gt;
+        About This Project
+    &lt;/title&gt;
+&lt;/head&gt;</code></pre>
 <body>
 <!--include logo.txt -->
 <!--include menu.txt -->
-
-<h1>About this project</h1>
-<p>This is a novel in progress.</p>
+<h1 id="about-this-project">About this project</h1>
+<p>Some ideas kicking around here:</p>
+<h2 id="four-color">Four color</h2>
+<ul>
+<li>red</li>
+<li>gold</li>
+<li>green</li>
+<li>blue</li>
+</ul>
+<p><a href="https://www.mudamasters.com/en/personal-growth-personality/insights-discovery-part-1-4-colors">Muda masters</a></p>
+<h3 id="red">Red</h3>
+<p>Julio</p>
+<h3 id="gold">Gold</h3>
+<p>Abby Geist</p>
+<h3 id="green">Green</h3>
+<p>Madame Ovary</p>
+<h3 id="blue">Blue</h3>
+<p>Marian</p>
 </body>
 </html>
