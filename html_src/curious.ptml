@@ -1,0 +1,33 @@
+<html>
+<pre><code>&lt;head&gt;</code></pre>
+<!--include head.txt -->
+<pre><code>    &lt;title&gt;
+        Curious Joel
+    &lt;/title&gt;
+&lt;/head&gt;</code></pre>
+<body>
+<!--include logo.txt -->
+<!--include menu.txt -->
+<pre><code>        # Curious Joel
+
+
+    Orthodox group: Rabbi Gifteichebaum
+    
+
+    Poison Oak, NY
+   
+
+    Kabbalah
+  
+
+    Miriam
+ 
+
+    Adam and Eve
+
+
+
+    Rabbi: &quot;Once I had seen God, I thought the rules didn&#39;t apply to me
+    anymore.&quot;</code></pre>
+</body>
+</html>

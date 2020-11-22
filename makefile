@@ -27,8 +27,8 @@ tests: FORCE
 local: $(HTMLFILES) $(INCS)
 
 $(PTML_DIR)/%.ptml: $(MARKDOWN_DIR)/%.md
-	# Requires pandoc, uses commonmark flavor of markdown
-	pandoc -f commonmark -t html5 <$< >$@
+	# Requires pandoc
+	pandoc -f markdown -t html5 <$< >$@
 	git add $@
 
 ptml: $(PTMLFILES)
