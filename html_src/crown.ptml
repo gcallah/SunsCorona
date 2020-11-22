@@ -1,14 +1,16 @@
 <html>
-<pre><code>&lt;head&gt;</code></pre>
+    <head>
 <!--include head.txt -->
-<pre><code>    &lt;title&gt;
-        Crown Heights
-    &lt;/title&gt;
-&lt;/head&gt;</code></pre>
-<body>
+        <title>
+            Crown Heights
+        </title>
+    </head>
+
+ <body>
 <!--include logo.txt -->
 <!--include menu.txt -->
-<h1 id="crown-heights">Crown Heights</h1>
+
+<h1>Crown Heights</h1>
 <p>Jonah Fischbaum strode down Eastern Parkway feeling that the world was his oyster. He had just closed a deal for the purchase of a ten million dollar commercial property on Troy Avenue, for which he should earn a commission of about 300,000 dollars. Finally, he ought to be able to get his wife, Levana, to lay off him about not joining her father's diamond business, and instead starting his own real estate brokerage.</p>
 <p>Levana loved him, most likely, but Jonah always worried that, just maybe, she loved wealth even more. But no, that was not quite right: it was not wealth itself that she loved, but the respect from the community which wealth brought.</p>
 <p>But just as he was about to step into Albany Avenue, on his way to admire the property he had just sold, an ambulance, its sirens blaring, stopped him in his tracks.</p>

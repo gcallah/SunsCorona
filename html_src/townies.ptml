@@ -2,14 +2,16 @@
 <head>
 <!--include head.txt -->
 <title>
-<pre><code>        Townies</code></pre>
+            Townies
 </title>
 </head>
+
 <body>
 <!--include logo.txt -->
 <!--include menu.txt -->
-<h1 id="townies">Townies</h1>
-<h2 id="characters">Characters</h2>
+
+<h1>Townies</h1>
+<h2>Characters</h2>
 <p><strong>Julio Candomble</strong>:</p>
 <ul>
 <li>Brazilian man.</li>
@@ -21,7 +23,7 @@
 <li>Catholic lady</li>
 </ul>
 <p><strong>Lesbian couple</strong></p>
-<h2 id="scenes">Scenes</h2>
-<p>Julio confronts orthodox in town: &quot;Why don't any of <em>you</em> ever get sick?&quot;</p>
+<h2>Scenes</h2>
+<p>Julio confronts orthodox in town: "Why don't any of <em>you</em> ever get sick?"</p>
 </body>
 </html>

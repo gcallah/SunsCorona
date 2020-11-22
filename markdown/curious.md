@@ -10,7 +10,7 @@
 <!--include logo.txt -->
 <!--include menu.txt -->
 
-            # Curious Joel
+# Curious Joel
 
 
         Orthodox group: Rabbi Gifteichebaum
